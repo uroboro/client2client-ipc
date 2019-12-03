@@ -6,7 +6,7 @@
 	CPDistributedMessagingCenter * _messagingCenter;
 }
 @property (nonatomic, strong) NSMutableDictionary * configuration;
-@property (nonatomic, retain) NSArray *supportedMessageNames;
+@property (nonatomic, retain) NSArray * supportedMessageNames;
 @end
 
 @implementation YourTweakServer
